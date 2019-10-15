@@ -207,6 +207,8 @@ module StanfordCoreNLP
         'PriorAnnotation',
         'ProjectedCategoryAnnotation',
         'ProtoAnnotation',
+        'QuotationsAnnotation',
+        'QuotationIndexAnnotation',
         'RoleAnnotation',
         'SectionAnnotation',
         'SemanticHeadTagAnnotation',
